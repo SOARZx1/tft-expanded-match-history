@@ -4,12 +4,12 @@ Project Type - Feature Shipping Mock (Teamfight Tactics)
 
 Role - Game Producer (Self-Directed)
 
-Overview
+Overview:
 
 This project proposes an expanded Match History feature for Teamfight Tactics that allows players to click into completed matches and view augment selections, economy history, and lobby context directly in the client.
 The feature is designed to improve post-game learning, competitive integrity, and player engagement, while reducing reliance on third-party tools.
 
-Problem Statement
+Problem Statement:
 
 Currently, Match History only displays a player’s final board state and placement.
 Players who want to review their decisions must use external websites or apps to access:
@@ -22,7 +22,7 @@ This creates unnecessary friction and information asymmetry for competitive play
 
 
 
-Goals & Success Metrics
+Goals & Success Metrics:
 
 - Improve post-match clarity and learning
 - Reduce dependency on third-party tools
@@ -32,10 +32,9 @@ Goals & Success Metrics
 - Reduced player-reported reliance on third-party tools
 - Positive ranked player feedback
 
-Feature Scope
+Feature Scope:
 
-In Scope
-
+In Scope:
 - Augment Timeline
     - Augments selected at stages 2-1, 3-2, and 4-2
 - Economy History
@@ -45,51 +44,46 @@ In Scope
 - Final Board View
     - Existing end-game board display
  
-Out of Scope
+Out of Scope:
 - Unit positioning replays
 - Item carousel replay
 - Real-time or live match data
 
-Cross-Discipline Collaboration
+Cross-Discipline Collaboration:
 
-Design
+Design:
 - UX flow for expanded match history screen
 - Progressive disclosure to prevent information overload
 
-Engineering
-
+Engineering:
 - Backend data validation
 - Client data binding and caching
 - Performance safeguards
 
-Art / UI
-
+Art / UI:
 - Stage timeline visuals
 - Trait iconography
 - Clear visual hierarchy
 
-QA
-
+QA:
 - Functional validation
 - Edge-case testing
 - Localization checks
 
-Risks 
-
+Risks:
 - Client performance impact
 - Competitive integrity concerns	
 - Feature creep	
 - Data overload
 
-QA Coverage
-
+QA Coverage:
 - Ranked vs normal matches
 - Remakes and partial participation
 - Cross-patch historical matches
 - Localization text overflow
 - Low-spec device performance
 
-Project Management
+Project Management:
 
 This feature was planned and tracked using a Kanban workflow in Jira, managing work across Backlog, Ready, In Progress, QA, and Done to maintain scope control and delivery flow.
 
