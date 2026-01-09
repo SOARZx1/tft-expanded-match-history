@@ -96,3 +96,6 @@ This feature was planned and tracked using a Kanban workflow in Jira, managing w
 A single Jira board screenshot is included to demonstrate execution planning.
 
 <img width="1608" height="763" alt="image" src="https://github.com/user-attachments/assets/da02cb4a-cbc0-408c-a81a-7359cf1d9674" />
+
+Note: Jira board available upon request.
+
